@@ -1,0 +1,164 @@
+[
+  {
+   "id": 0,
+   "image": "http://leodom.ru/media/zoo/images/rivoli-1_f3f31080b0d509463bcc9d1c5abefe44.jpg",
+   "title": "Industrialwood",
+   "price": 1424,
+   "stars": 0
+  },
+  {
+   "id": 1,
+   "image": "http://leodom.ru/media/zoo/images/i_db7a4851c2ecd997ff9aa82b33f56890.jpg",
+   "title": "Hardourwood",
+   "price": 914,
+   "stars": 0
+  },
+  {
+   "id": 2,
+   "image": "http://leodom.ru/media/zoo/images/i_42a764e07c6106df142505d08cb9a506.jpg",
+   "title": "Floralwood",
+   "price": 1111,
+   "stars": 11
+  },
+  {
+   "id": 3,
+   "image": "http://leodom.ru/media/zoo/images/i_061cf3c4d3e62004fb8c919844a5d4cb.jpg",
+   "title": "Colorwood",
+   "price": 7124,
+   "stars": 0
+  },
+  {
+   "id": 4,
+   "image": "http://leodom.ru/media/zoo/images/i1_ad1001f6642d8a6e4e8263903d5f57f2.jpg",
+   "title": "Antiquewood",
+   "price": 6124,
+   "stars": 0
+  },
+  {
+   "id": 5,
+   "image": "http://leodom.ru/media/zoo/images/i_25a8727d7d1cd6e1053d0b9bb5b48fe1.jpg",
+   "title": "Shevron",
+   "price": 454,
+   "stars": 0
+  },
+  {
+   "id": 6,
+   "image": "http://leodom.ru/media/zoo/images/i_0a271ef13abaa421b0c7fdc695fd73fe.jpg",
+   "title": "Chance",
+   "price": 544,
+   "stars": 0
+  },
+  {
+   "id": 7,
+   "image": "http://leodom.ru/media/zoo/images/i_43fbbd2f98de0faa829a41432e42e5e8.jpg",
+   "title": "Hugge",
+   "price": 624,
+   "stars": 0
+  },
+  {
+   "id": 8,
+   "image": "http://leodom.ru/media/zoo/images/shevron_a4fde70299eb0054ef2d576da1d8cd5a.jpg",
+   "title": "Haiku",
+   "price": 721,
+   "stars": 0
+  },
+  {
+   "id": 9,
+   "image": "http://leodom.ru/media/zoo/images/chance_45bbb96bec419b1b8c9ee69d22203456.jpg",
+   "title": "Fresco",
+   "price": 694,
+   "stars": 0
+  },
+  {
+   "id": 10,
+   "image": "http://leodom.ru/media/zoo/images/sahara_d69cd929584618ca6ca2e621ff86c80b.jpg",
+   "title": "Fjord",
+   "price": 924,
+   "stars": 0
+  },
+  {
+   "id": 11,
+   "image": "http://leodom.ru/media/zoo/images/santorini_2b292d5a6dbac0e3ea7c166e854cdfbd.jpg",
+   "title": "Sahara",
+   "price": 991,
+   "stars": 0
+  },
+  {
+   "id": 12,
+   "image": "http://leodom.ru/media/zoo/images/hugge_91a75b2705b82ac8b452172ffab5d4bc.jpg",
+   "title": "Santorini",
+   "price": 1054,
+   "stars": 0
+  },
+  {
+   "id": 14,
+   "image": "http://leodom.ru/media/zoo/images/haiku_2d16a499b0dd897878cb11ee090137af.jpg",
+   "title": "Royal Stone",
+   "price": 126,
+   "stars": 0
+  },
+  {
+   "id": 16,
+   "image": "http://leodom.ru/media/zoo/images/royal_stone_d7faccb150b1bd0336840eefa384a431.jpg",
+   "title": "Для добрых снов",
+   "price": 412,
+   "stars": 0
+  },
+  {
+   "id": 17,
+   "image": "http://leodom.ru/media/zoo/images/luara_5163d6641be1754d805a3e4a447cf4cb.jpg",
+   "title": "Luara",
+   "price": 1534,
+   "stars": 0
+  },
+  {
+   "id": 18,
+   "image": "http://leodom.ru/media/zoo/images/lila_3c82cdc57223f194b0f073b023bb67c9.jpg",
+   "title": "Jaquard",
+   "price": 1621,
+   "stars": 0
+  },
+  {
+   "id": 19,
+   "image": "http://leodom.ru/media/zoo/images/cariota_f81062c01b8cf608a483cccbae6b1c11.jpg",
+   "title": "MINI",
+   "price": 1711,
+   "stars": 0
+  },
+  {
+   "id": 20,
+   "image": "http://leodom.ru/media/zoo/images/vegas_1_7f27f76f1313f1e363fbff9cc3c530a1.jpg",
+   "title": "Vegas",
+   "price": 1801,
+   "stars": 0
+  },
+  {
+   "id": 21,
+   "image": "http://leodom.ru/media/zoo/images/glory_c4ef4bab03abac7a6650410e51e548ba.jpg",
+   "title": "Brooklyn",
+   "price": 891,
+   "stars": 0
+  },
+  {
+   "id": 22,
+   "image": "http://leodom.ru/media/zoo/images/brooklyn1_f27ef79c3b9a6e7b9001c90369f50680.jpg",
+   "title": "Asai",
+   "price": 1981,
+   "stars": 0
+  },
+  {
+   "id": 28,
+   "image": "http://leodom.ru/media/zoo/images/jacquard_34eca937d1da0865352b2f6380728eae.jpg",
+   "title": "Arizona",
+   "price": 2524,
+   "stars": 0
+  },
+  {
+   "id": 29,
+   "image": "http://leodom.ru/media/zoo/images/caravan1_0042c0abc5848e0027b1c62b1b690be2.jpg",
+   "title": "Apeks",
+   "price": 224,
+   "stars": 0
+  }
+  
+]

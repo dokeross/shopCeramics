@@ -1,0 +1,80 @@
+.productsSinglePage {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+  
+.asideLeftMenu{
+  width: 10vw;
+  &__headline{
+    font-size: 28px;
+    color: #4d4d4d;
+    padding-bottom: 45px;
+    font-weight: bold;
+  }
+  &__title{
+    font-size: 15px;
+    font-weight: bold;
+    color: #4d4d4d;
+  }
+  &__filter{
+    &_a {
+      display: block;
+      }
+  }
+}
+
+.mainBlock {
+  width: 30vw;
+  text-align: center;
+  &__title{
+    font-size: 38px;
+    height: 3vw;
+    color: #4d4d4d;
+    font-weight: bold;
+  }
+}
+
+.asideRight {
+  width: 20vw;
+}
+
+.productParameters{
+  &__headline{
+    font-size: 28px;
+    color: #4d4d4d;
+    font-weight: bold;
+  }
+  &__description {
+    color: #4d4d4d;
+    font-size: 12px;
+    padding-bottom: 10px;
+  }
+}
+
+.productReservation {
+  &__input {
+    width: 30%;
+    box-shadow: inset 1px 1px 4px #e0dcdc;
+    margin-right: 19px;
+    text-align: right;
+    border-radius: 5px;
+    outline: none;
+  }
+  &__button {
+    background-color: #820333;
+    border: #820333;
+    color: #ffffff;
+    border-radius: 4px;
+    font-size: 14px;
+    outline: none;
+    box-shadow: 1px 1px 5px #868484;
+    &:hover {
+        cursor: pointer;
+    }
+  }
+}
+
+.productDescription {
+  padding-top: 30px;
+}
